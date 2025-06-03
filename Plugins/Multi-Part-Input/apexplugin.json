@@ -40,8 +40,8 @@
       "plugin": {
         "internalName": "MAATHRA_VSEGMENTED_INPUT",
         "type": "input",
-        "demo": "https://apex.oracle.com/pls/apex/r/ou_ogl/opportunities/home",
-        "previewImage": "https://raw.githubusercontent.com/VigneZ/ogl-on-apex/refs/heads/main/OGLOnApex.gif"
+        "demo": "",
+        "previewImage": "https://github.com/arun-maathra/apex-apps/blob/4cead763dafd181b77fc3e0f0456e6cc166c468c/Plugins/Multi-Part-Input/multi-part-demo.gif"
       }
     }
   }
